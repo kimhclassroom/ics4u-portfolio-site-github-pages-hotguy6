@@ -8,3 +8,5 @@ What I learned this week (bullets are fine, you may include an image):
 - # What I’m proud of:
   i'm proud of learning how to use github with some proficiency
 - # Next steps:
+
+[Main]{../index.md/}
