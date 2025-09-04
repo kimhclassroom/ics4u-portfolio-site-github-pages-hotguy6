@@ -1,3 +1,3 @@
 # Assets
-![Post Secondary Goals](./assets/16.)
+![Alt text](./assets/my-screenshot.png)
 
