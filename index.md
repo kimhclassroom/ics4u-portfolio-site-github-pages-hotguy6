@@ -1,4 +1,4 @@
-# Hi, I'm Alexander
+# Hi, I'm Alexander Fokas
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
