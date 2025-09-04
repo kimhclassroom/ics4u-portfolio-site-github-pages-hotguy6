@@ -9,4 +9,4 @@ What I learned this week (bullets are fine, you may include an image):
   i'm proud of learning how to use github with some proficiency
 - # Next steps:
 
-[Main]{../index.md/}
+
